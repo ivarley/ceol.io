@@ -1,2 +1,3 @@
 # ceol.io
-Public ceol.io website
+
+This is the repo for the public ceol.io website.
